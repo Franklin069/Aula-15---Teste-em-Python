@@ -4,3 +4,5 @@
 
 3) executando o arquivo de testes unitários
 - comando no terminal: python test_calculadora.py
+
+Observações...
